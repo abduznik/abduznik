@@ -1,27 +1,28 @@
-## abduznik's GitHub Profile
+# abduznik's GitHub Profile
 
-Welcome to my GitHub! I am a developer focused on a diverse range of projects, primarily centered around **utility tools, personal productivity, and software configuration**.
+## Welcome to my profile! You can check out my repositories I made throughout the time.
+![Abduznik's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduznik)
+Most of my repositories are scripts I, personally, needed for day to day use, programs for easier jobs and fun little niche projects, most of my work comes in Python language, but I also do sometimes script/work on C and C#, I have some repositories that are with JS and HTML, but I wouldn't consider them proper projects and I mostly vibe coded with them to make simpler and more niche projects than usual.
 
-My work is heavily concentrated on:
+## Projects I worked on that you might be interested in!
+[My Personal Useless-Wiki for my Niche projects](https://github.com/abduznik/Useless-Wiki)
+[Signal Generator Instrument Communicator (VISA)](https://github.com/abduznik/Instrument_Keysight_SG)
+[My Personal Lazy Slideshow Editor (FFMPEG GUI)](https://github.com/abduznik/FFMPEG-Image-To-Video)
+[GMTK 2025 Attempt *For Loop* Game.](https://github.com/abduznik/For-Loop)
+[GPIB to USB Communicator For Raspberry Pi](https://github.com/abduznik/gpib-rpi)
+[Stratagem Macro Editor for Helldivers 2](https://github.com/abduznik/HD2-Stratagem)
+[TTS Reader - Pick Text And Listen To It (Windows)](https://github.com/abduznik/TTS_Reader)
+[UART Communication using MicroPython with RP2040](https://github.com/abduznik/Micropython_UART)
 
-* **Obsidian Plugin Development:** A significant portion of my public repositories involves creating, forking, and managing plugins for the Obsidian note-taking application (`Obsidian-Gemini-Transcribe`, `Obsidian-Reddit-Notes`, `Obsidian-WebBrowser`, etc.).
-* **Python Utilities:** I develop tools for specific tasks, including instrumentation (`Instrument_Keysight_SG`), media processing (`FFMPEG-Image-To-Video`), and other system utilities (`HD2-Stratagem`, `TTS_Reader`).
-* **Web Development & Sites:** Projects like `android-games-website`, `Kitzurit`, and `MyGarden` involve web technologies, site generation, and application wrappers.
+## Do you use Obsidian? These Repositories might be useful for you
+[Reddit Notes - Take Posts and make Notes out of them](https://github.com/abduznik/Obsidian-Reddit-Notes)
+[Buttons with Custom commands for Terminal usage](https://github.com/abduznik/buttons)
+[SteamGridDB Implementation for custom game images](https://github.com/abduznik/obsidian-steamgriddb)
+[Easier Image Embedding](https://github.com/abduznik/obsidian-easy-image-embed)
+[Get The Latest Deals With Cheapsharp API](https://github.com/abduznik/obsidian-cheapshark)
+[Simple Web Browser in Obsidian](https://github.com/abduznik/Obsidian-WebBrowser)
+[Output as text your public IP](https://github.com/abduznik/MyIP-Obsidian)
+[Check The Recent Free Games From Multiple Platforms](https://github.com/abduznik/Obsidian-Game-Giveaways)
+[Transcribe voice using GEMINI AI into Obsidian Notes](https://github.com/abduznik/Obsidian-Gemini-Transcribe)
 
-My profile reflects an interest in automating tasks, enhancing personal workflows, and adapting existing software to new use cases.
 
----
-
-**Featured Projects**
-
-| Repository | Primary Focus | Language(s) |
-| :--- | :--- | :--- |
-| **[MyGarden](https://github.com/abduznik/MyGarden)** | Static site generation and notes | TypeScript |
-| **[Instrument_Keysight_SG](https://github.com/abduznik/Instrument_Keysight_SG)** | Scientific instrumentation control | Python |
-| **[Obsidian-Gemini-Transcribe](https://github.com/abduznik/Obsidian-Gemini-Transcribe)** | AI integration and productivity | JavaScript |
-| **[FFMPEG-Image-To-Video](https://github.com/abduznik/FFMPEG-Image-To-Video)** | Media conversion utility | Python |
-| **[Kitzurit](https://github.com/abduznik/Kitzurit)** | Simple web utility/bookmark site | HTML |
-
----
-
-Thank you for visiting and exploring my work.
