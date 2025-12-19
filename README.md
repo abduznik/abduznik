@@ -1,8 +1,8 @@
 # abduznik's GitHub Profile
 
-## Welcome to my profile! You can check out my repositories I made throughout the time.
-
 ![Abduznik's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduznik)
+
+## Welcome! Here is a collection of my projects, including hardware automation and game development.
 
 ## Projects I worked on that you might be interested in!
 - [My Personal Niche-Wiki for my Niche projects](https://github.com/abduznik/Niche-Wiki)
