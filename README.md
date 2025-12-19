@@ -1,19 +1,14 @@
 # abduznik's GitHub Profile
 
-## Welcome to my profile! You can check out my repositories I made throughout the time.
-
 ![Abduznik's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduznik)
 
-Most of my repositories are scripts I, personally, needed for day to day use, programs for easier jobs and fun little niche projects, most of my work comes in Python language, but I also do sometimes script/work on C and C#, I have some repositories that are with JS and HTML, but I wouldn't consider them proper projects and I mostly vibe coded with them to make simpler and more niche projects than usual.
+## Welcome! Here is a collection of my projects, including hardware automation and game development.
 
 ## Projects I worked on that you might be interested in!
-- [My Personal Useless-Wiki for my Niche projects](https://github.com/abduznik/Useless-Wiki)
+- [My Personal Niche-Wiki for my Niche projects](https://github.com/abduznik/Niche-Wiki)
 - [Signal Generator Instrument Communicator (VISA)](https://github.com/abduznik/Instrument_Keysight_SG)
-- [My Personal Lazy Slideshow Editor (FFMPEG GUI)](https://github.com/abduznik/FFMPEG-Image-To-Video)
 - [GMTK 2025 Attempt *For Loop* Game.](https://github.com/abduznik/For-Loop)
 - [GPIB to USB Communicator For Raspberry Pi](https://github.com/abduznik/gpib-rpi)
-- [Stratagem Macro Editor for Helldivers 2](https://github.com/abduznik/HD2-Stratagem)
-- [TTS Reader - Pick Text And Listen To It (Windows)](https://github.com/abduznik/TTS_Reader)
 - [UART Communication using MicroPython with RP2040](https://github.com/abduznik/Micropython_UART)
 
 ## Do you use Obsidian? These Repositories might be useful for you
