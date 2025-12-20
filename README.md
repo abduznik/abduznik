@@ -12,6 +12,7 @@
 - [UART Communication using MicroPython with RP2040](https://github.com/abduznik/Micropython_UART)
 
 ## Do you use Obsidian? These Repositories might be useful for you
+- [Shell Termux - Perfect for Android power users](https://github.com/abduznik/obsidian-shell-termux)
 - [Reddit Notes - Take Posts and make Notes out of them](https://github.com/abduznik/Obsidian-Reddit-Notes)
 - [Buttons with Custom commands for Terminal usage](https://github.com/abduznik/buttons)
 - [SteamGridDB Implementation for custom game images](https://github.com/abduznik/obsidian-steamgriddb)
