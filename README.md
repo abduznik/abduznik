@@ -1,7 +1,5 @@
 # abduznik's GitHub Profile
 
-![Abduznik's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduznik)
-
 ## Welcome! Here is a collection of my projects, including hardware automation and game development.
 
 ## Projects I worked on that you might be interested in!
