@@ -1,39 +1,43 @@
-# Hi, I'm Abduznik
+# Hi, I am abduznik
 
-### Computer Science Student | Embedded Systems | Toolsmith
-
-I build tools that bridge the gap between hardware, software, and productivity. Currently focusing on **Embedded Systems** and **Obsidian Plugin Development**.
+I am a Technical Engineer and Computer Science student. I build CLI tools, automations, and software to solve problems and explore new technologies.
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 
 ---
 
-## Embedded Systems & Hardware
-*Low-level communication and hardware drivers.*
+### 1. AI & Automation Suite
 
-- **[ST7789-SPI-PICO](https://github.com/abduznik/ST7789-SPI-PICO)** - Custom SPI communication driver for ST7789 TFT screens using Raspberry Pi Pico.
-- **[Micropython UART](https://github.com/abduznik/Micropython_UART)** - UART/Serial interface implementation for RP2040 with support for Windows/Linux/Android.
-- **[Instrument Keysight SG](https://github.com/abduznik/Instrument_Keysight_SG)** - Automated control of Signal Generators via VISA protocol.
-- **[ESP32 Host Tool](https://github.com/abduznik/esp32-host-tool)** - Host-side tooling for ESP32 development.
+- **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - AI-powered tool to automatically generate concise descriptions for repositories.
+- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - An automated GitHub issue generator script using Gemini and PowerShell.
+- **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Automation tool for generating and updating GitHub profile READMEs.
+- **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - Automatically analyzes and adds relevant topics to public GitHub repositories.
 
-## Featured Obsidian Plugins
-*Enhancing the "second brain" with AI and automation.*
+### 2. Obsidian Ecosystem
 
-- **[Obsidian SteamGridDB](https://github.com/abduznik/obsidian-steamgriddb)** - Fetches metadata and cover art for games directly into your notes.
-- **[Obsidian Gemini Transcribe](https://github.com/abduznik/Obsidian-Gemini-Transcribe)** - Uses Google's Gemini AI to transcribe voice notes into markdown.
-- **[Obsidian Shell Termux](https://github.com/abduznik/obsidian-shell-termux)** - Executes shell commands from Obsidian (perfect for Android power users).
-- **[MyIP Obsidian](https://github.com/abduznik/MyIP-Obsidian)** - Simple utility to log and track public IP changes.
+- **[Obsidian-Reddit-Notes](https://github.com/abduznik/Obsidian-Reddit-Notes)** - Tools for formatting and saving Reddit threads as Obsidian notes.
+- **[obsidian-releases](https://github.com/abduznik/obsidian-releases)** - Community plugins list, theme list, and releases of Obsidian.
+- **[obsidian-shell-termux](https://github.com/abduznik/obsidian-shell-termux)** - Integration for running shell commands within Obsidian using Termux on Android.
+- **[obsidian-steamgriddb](https://github.com/abduznik/obsidian-steamgriddb)** - Fetches game assets and metadata from SteamGridDB for use in Obsidian.
 
-## Game Development & Graphics
-- **[Paint Watching Game](https://github.com/abduznik/paint-watching-game)** - A multiplayer social experiment built in Godot/GDScript.
-- **[For Loop](https://github.com/abduznik/For-Loop)** - GMTK 2025 Game Jam entry exploring loop logic.
-- **[FFMPEG Image to Video](https://github.com/abduznik/FFMPEG-Image-To-Video)** - Python automation for media processing.
+### 3. Embedded Systems & IoT
+
+- **[esp32-host-tool](https://github.com/abduznik/esp32-host-tool)** - A lightweight, Python-based CLI utility designed to interact with ESP32 UART firmware.
+- **[gpib-rpi](https://github.com/abduznik/gpib-rpi)** - Setup a Raspberry Pi for long-term measurements and instrument control.
+- **[Micropython_UART](https://github.com/abduznik/Micropython_UART)** - Simple UART code including a pyserial interface with support for Windows, Linux, and Android.
+- **[ST7789-SPI-PICO](https://github.com/abduznik/ST7789-SPI-PICO)** - SPI communication implementation for driving ST7789 TFT screens with a Raspberry Pi Pico.
+
+### 4. Utilities & Media Tools
+
+- **[darksouls-notify](https://github.com/abduznik/darksouls-notify)** - Utility script for Dark Souls notifications to make your PC work more fun.
+- **[FFMPEG-Image-To-Video](https://github.com/abduznik/FFMPEG-Image-To-Video)** - A utility to quickly stitch image sequences into video files using FFMPEG.
+- **[LDraw2Print](https://github.com/abduznik/LDraw2Print)** - A drag-and-drop tool to convert LDraw Lego models (.ldr) into print-ready .obj files, featuring auto-stud welding and smart color separation.
+- **[TTS_Reader](https://github.com/abduznik/TTS_Reader)** - A text-to-speech reader application for accessible content consumption.
+
+### 5. Game Development
+
+- **[paint-watching-game](https://github.com/abduznik/paint-watching-game)** - A game made in Godot about watching paint dry with friends.
 
 ---
-*Check out my repositories below for more tools and experiments.*
+*Generated by AI-Gen-Profile*
