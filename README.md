@@ -1,6 +1,6 @@
-﻿# Hi, I am abduznik
+# Hi, I am abduznik
 
-I build tools and software.
+I am a Technical Engineer and Computer Science student. I build CLI tools, automations, and software to solve problems and explore new technologies.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
@@ -9,32 +9,35 @@ I build tools and software.
 
 ### 1. AI & Automation Suite
 
-- **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - 
-- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - 
-- **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - 
-- **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - 
+- **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - AI-powered tool to automatically generate concise descriptions for repositories.
+- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - An automated GitHub issue generator script using Gemini and PowerShell.
+- **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Automation tool for generating and updating GitHub profile READMEs.
+- **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - Automatically analyzes and adds relevant topics to public GitHub repositories.
+
 ### 2. Obsidian Ecosystem
 
-- **[Obsidian-Reddit-Notes](https://github.com/abduznik/Obsidian-Reddit-Notes)** - 
+- **[Obsidian-Reddit-Notes](https://github.com/abduznik/Obsidian-Reddit-Notes)** - Tools for formatting and saving Reddit threads as Obsidian notes.
 - **[obsidian-releases](https://github.com/abduznik/obsidian-releases)** - Community plugins list, theme list, and releases of Obsidian.
-- **[obsidian-shell-termux](https://github.com/abduznik/obsidian-shell-termux)** - 
-- **[obsidian-steamgriddb](https://github.com/abduznik/obsidian-steamgriddb)** - 
+- **[obsidian-shell-termux](https://github.com/abduznik/obsidian-shell-termux)** - Integration for running shell commands within Obsidian using Termux on Android.
+- **[obsidian-steamgriddb](https://github.com/abduznik/obsidian-steamgriddb)** - Fetches game assets and metadata from SteamGridDB for use in Obsidian.
+
 ### 3. Embedded Systems & IoT
 
-- **[esp32-host-tool](https://github.com/abduznik/esp32-host-tool)** - 
-- **[gpib-rpi](https://github.com/abduznik/gpib-rpi)** - Setup a Raspberry Pi for long term measurements
-- **[Micropython_UART](https://github.com/abduznik/Micropython_UART)** - Simple code for UART included a pyserial interface with support for windows,Linux,android
-- **[ST7789-SPI-PICO](https://github.com/abduznik/ST7789-SPI-PICO)** - A simple recoding for st7789 tft screen with SPI communication, I wanted to take a RP Pico and make a screen communication for it
+- **[esp32-host-tool](https://github.com/abduznik/esp32-host-tool)** - A lightweight, Python-based CLI utility designed to interact with ESP32 UART firmware.
+- **[gpib-rpi](https://github.com/abduznik/gpib-rpi)** - Setup a Raspberry Pi for long-term measurements and instrument control.
+- **[Micropython_UART](https://github.com/abduznik/Micropython_UART)** - Simple UART code including a pyserial interface with support for Windows, Linux, and Android.
+- **[ST7789-SPI-PICO](https://github.com/abduznik/ST7789-SPI-PICO)** - SPI communication implementation for driving ST7789 TFT screens with a Raspberry Pi Pico.
+
 ### 4. Utilities & Media Tools
 
-- **[darksouls-notify](https://github.com/abduznik/darksouls-notify)** - 
-- **[FFMPEG-Image-To-Video](https://github.com/abduznik/FFMPEG-Image-To-Video)** - 
+- **[darksouls-notify](https://github.com/abduznik/darksouls-notify)** - Utility script for Dark Souls notifications to make your PC work more fun.
+- **[FFMPEG-Image-To-Video](https://github.com/abduznik/FFMPEG-Image-To-Video)** - A utility to quickly stitch image sequences into video files using FFMPEG.
 - **[LDraw2Print](https://github.com/abduznik/LDraw2Print)** - A drag-and-drop tool to convert LDraw Lego models (.ldr) into print-ready .obj files, featuring auto-stud welding and smart color separation.
-- **[TTS_Reader](https://github.com/abduznik/TTS_Reader)** - 
+- **[TTS_Reader](https://github.com/abduznik/TTS_Reader)** - A text-to-speech reader application for accessible content consumption.
+
 ### 5. Game Development
 
-- **[paint-watching-game](https://github.com/abduznik/paint-watching-game)** - A game made in godot about watching paint dry with friends
-
+- **[paint-watching-game](https://github.com/abduznik/paint-watching-game)** - A game made in Godot about watching paint dry with friends.
 
 ---
 *Generated by AI-Gen-Profile*
