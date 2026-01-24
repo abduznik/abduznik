@@ -8,7 +8,7 @@ I am a Technical Engineer and Computer Science student. I build CLI tools, autom
 ---
 
 ### 1. AI & Automation Suite
-
+- **[AI-Stack-Manager](https://github.com/abduznik/AI-Stack-Manager)** - Streamlines deployment, monitoring, and resource optimization for AI development and production stacks.
 - **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - AI-powered tool to automatically generate concise descriptions for repositories.
 - **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - An automated GitHub issue generator script using Gemini and PowerShell.
 - **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Automation tool for generating and updating GitHub profile READMEs.
