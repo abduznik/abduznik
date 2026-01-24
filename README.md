@@ -23,7 +23,7 @@ I am a Technical Engineer and Computer Science student. I build CLI tools, autom
 
 ### 3. Embedded Systems & IoT
 
-- **[esp32-host-tool](https://github.com/abduznik/esp32-host-tool)** - A lightweight, Python-based CLI utility designed to interact with ESP32 UART firmware.
+- **[esp32-host-tool](https://github.com/abduznik/esp32-host-tool)** - A lightweight, C-based CLI utility designed to interact with ESP32 UART firmware.
 - **[gpib-rpi](https://github.com/abduznik/gpib-rpi)** - Setup a Raspberry Pi for long-term measurements and instrument control.
 - **[Micropython_UART](https://github.com/abduznik/Micropython_UART)** - Simple UART code including a pyserial interface with support for Windows, Linux, and Android.
 - **[ST7789-SPI-PICO](https://github.com/abduznik/ST7789-SPI-PICO)** - SPI communication implementation for driving ST7789 TFT screens with a Raspberry Pi Pico.
