@@ -7,12 +7,12 @@ I am a Technical Engineer and Computer Science student. I build CLI tools, autom
 
 ---
 
-### 1. AI & Automation Suite
-- **[AI-Stack-Manager](https://github.com/abduznik/AI-Stack-Manager)** - Streamlines deployment, monitoring, and resource optimization for AI development and production stacks.
-- **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - AI-powered tool to automatically generate concise descriptions for repositories.
-- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - An automated GitHub issue generator script using Gemini and PowerShell.
-- **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Automation tool for generating and updating GitHub profile READMEs.
-- **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - Automatically analyzes and adds relevant topics to public GitHub repositories.
+### 1. Automated Repository Lifecycle
+- **[AI-Stack-Manager](https://github.com/abduznik/AI-Stack-Manager)** - A self-hosted container environment that orchestrates the deployment and resource optimization of my maintenance agents.
+- **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Generates dynamic profile documentation by aggregating repository data, ensuring the portfolio stays synchronized with development.
+- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - Offloads maintenance overhead by automatically identifying and creating "good first issue" tickets for community fixes.
+- **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - Automated agent that analyzes codebase context to generate standardized repository descriptions.
+- **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - Enhances project discoverability by scanning code and automatically applying relevant GitHub topics.
 
 ### 2. Obsidian Ecosystem
 
