@@ -1,6 +1,7 @@
 # Hi, I am abduznik
 
-I am a Technical Engineer and Computer Science student. I build CLI tools, automations, and software to solve problems and explore new technologies.
+I am a Practical Engineer (Electronics) and Computer Science student.
+I build CLI tools, automations, and software to solve problems and explore new technologies.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
