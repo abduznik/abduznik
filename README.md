@@ -11,7 +11,7 @@ I build CLI tools, automations, and software to solve problems and explore new t
 ### 1. Automated Repository Lifecycle
 - **[AI-Stack-Manager](https://github.com/abduznik/AI-Stack-Manager)** - A self-hosted container environment that orchestrates the deployment and resource optimization of my maintenance agents.
 - **[AI-Gen-Profile](https://github.com/abduznik/AI-Gen-Profile)** - Generates dynamic profile documentation by aggregating repository data, ensuring the portfolio stays synchronized with development.
-- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - Offloads maintenance overhead by automatically identifying and creating "good first issue" tickets for community fixes.
+- **[AI-Gen-Issue](https://github.com/abduznik/AI-Gen-Issue)** - Offloads maintenance overhead by automatically identifying and creating "good first issue" tickets for community fixes (with human oversight).
 - **[AI-Gen-Description](https://github.com/abduznik/AI-Gen-Description)** - Automated agent that analyzes codebase context to generate standardized repository descriptions.
 - **[AI-Gen-Topics](https://github.com/abduznik/AI-Gen-Topics)** - Enhances project discoverability by scanning code and automatically applying relevant GitHub topics.
 
