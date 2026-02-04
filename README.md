@@ -1,3 +1,8 @@
+# Git-Alchemist ⚗️
+
+My primary project: A unified AI stack for GitHub management. [Try it here](https://abduznik.github.io/Git-Alchemist/)
+
+---
 # abduznik - Project Showcase
 
 Welcome to my GitHub profile! I'm a developer passionate about building tools that streamline workflows, leverage AI, and enhance productivity. Below is a showcase of my projects, categorized for easy browsing.
