@@ -1,4 +1,4 @@
-<h1 align="center">YAN</h1>
+<h1 align="center">abduznik</h1>
 
 <p align="center">
   <strong>SYSTEMS · AUTOMATION · INFRASTRUCTURE</strong>
@@ -50,10 +50,10 @@ Automated metadata and artwork orchestration for Obsidian vaults. It integrates 
 ## STACK
 
 **LANGUAGES**  
-PYTHON / DART / TYPESCRIPT / JAVASCRIPT / C / GDSCRIPT
+PYTHON / DART / TYPESCRIPT / JAVASCRIPT / C
 
 **DOMAINS**  
-INFRASTRUCTURE / AUTOMATION / EMBEDDED SYSTEMS / PKM / GAME DEVELOPMENT
+INFRASTRUCTURE / AUTOMATION / EMBEDDED SYSTEMS
 
 ---
 
