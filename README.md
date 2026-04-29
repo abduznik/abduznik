@@ -49,6 +49,8 @@ A technical Python utility for optimizing LDraw digital designs. It implements c
 Automated metadata and artwork orchestration for Obsidian vaults. It integrates the SteamGridDB API to fetch high-resolution grids and heroes, creating a rich, visual database for personal media collections.  
 [SOURCE](https://github.com/abduznik/obsidian-steamgriddb)
 
+---
+
 ### ATE SYSTEMS BOOTCAMP
 **HARDWARE ONBOARDING INFRASTRUCTURE.**  
 A standardized training environment for junior electronics engineers. Features modular labs for Git version control, Wokwi firmware simulation, and KiCad hardware design to bridge the gap between academic theory and military-grade ATE production.  
