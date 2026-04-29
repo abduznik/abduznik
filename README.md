@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  Computer Science Student @ HIT | Practical Engineer (Electronics & RF) | Embedded Systems & Automation Enthusiast
+  Computer Science Student @ HIT | Practical Engineer (Electronics & RF) | Project Lead & Systems Architect
 </p>
 
 <p align="center">
-  Focusing on high-performance tools that bridge the gap between low-level hardware logic and user-centric interfaces.
+  Bridging the gap between low-level hardware logic and scalable software ecosystems. 
+  Currently managing a portfolio of Automated Test Equipment (ATE) projects through high-standard engineering mentorship.
 </p>
 
 ---
-
 ## PROJECTS
 
 ### FREEGOSY
