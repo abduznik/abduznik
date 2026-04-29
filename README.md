@@ -1,11 +1,15 @@
 <h1 align="center">abduznik</h1>
 
 <p align="center">
-  <strong>SYSTEMS · AUTOMATION · INFRASTRUCTURE</strong>
+  <strong>SYSTEMS · EMBEDDED · ARCHITECTURE</strong>
 </p>
 
 <p align="center">
-  Focusing on high-performance tools that bridge the gap between complex backend logic and user-centric interfaces.
+  Computer Science Student @ HIT | Practical Engineer (Electronics & RF) | Embedded Systems & Automation Enthusiast
+</p>
+
+<p align="center">
+  Focusing on high-performance tools that bridge the gap between low-level hardware logic and user-centric interfaces.
 </p>
 
 ---
@@ -45,15 +49,20 @@ A technical Python utility for optimizing LDraw digital designs. It implements c
 Automated metadata and artwork orchestration for Obsidian vaults. It integrates the SteamGridDB API to fetch high-resolution grids and heroes, creating a rich, visual database for personal media collections.  
 [SOURCE](https://github.com/abduznik/obsidian-steamgriddb)
 
+### ATE SYSTEMS BOOTCAMP
+**HARDWARE ONBOARDING INFRASTRUCTURE.**  
+A standardized training environment for junior electronics engineers. Features modular labs for Git version control, Wokwi firmware simulation, and KiCad hardware design to bridge the gap between academic theory and military-grade ATE production.  
+[SOURCE](https://github.com/abduznik/ATE-Systems-Bootcamp)
+
 ---
 
 ## STACK
 
 **LANGUAGES**  
-PYTHON / DART / TYPESCRIPT / JAVASCRIPT / C
+PYTHON / DART / C++ / C / TYPESCRIPT
 
 **DOMAINS**  
-INFRASTRUCTURE / AUTOMATION / EMBEDDED SYSTEMS
+SYSTEMS ARCHITECTURE / EMBEDDED / AUTOMATION / INFRASTRUCTURE
 
 ---
 
