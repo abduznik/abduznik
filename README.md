@@ -18,7 +18,7 @@
 
 ### FREEGOSY
 **THE ULTIMATE GAMING ECOSYSTEM.**  
-A unified Flutter-based interface for RomM libraries. Designed for seamless library browsing, automated game management, and cross-platform emulator synchronization. Built for power users who demand a native, high-performance gaming dashboard.  
+A cross-platform Flutter client for RomM libraries — browse, download, and launch games with automatic save synchronization. The flagship successor to earlier launcher tooling, built for power users who demand a native, high-performance gaming dashboard.  
 [SOURCE](https://github.com/abduznik/Freegosy)
 
 ---
@@ -37,10 +37,10 @@ Converts GitHub profiles and repositories into clean, LLM-friendly Markdown. Fea
 
 ---
 
-### WINGOSY LAUNCHER
-**PORTABLE GAME LAUNCHER, NATIVE PYTHON.**  
-A lightweight, portable Windows game launcher with automated RomM save syncing. A native Python port of Argosy, built for minimal footprint and reliable cross-session save synchronization.  
-[SOURCE](https://github.com/abduznik/Wingosy-Launcher)
+### GIT-ALCHEMIST
+**TRANSMUTE YOUR GIT HISTORY.**  
+A CLI tool for rewriting, cleaning, and optimizing Git repositories. Combines automation with LLM-assisted analysis to streamline history rewrites, repo cleanup, and version-control maintenance.  
+[SOURCE](https://github.com/abduznik/Git-Alchemist)
 
 ---
 
