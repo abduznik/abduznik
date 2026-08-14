@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Science Student @ HIT | Practical Engineer (Electronics & RF) | Project Lead & Systems Architect
+  Practical Engineer (Electronics & RF) | Project Lead & Systems Architect
 </p>
 
 <p align="center">
@@ -30,17 +30,17 @@ A containerized Python orchestration layer designed for automated service instru
 
 ---
 
-### TTS READER CHROME
-**CONTEXTUAL SPEECH SYNTHESIS.**  
-A modern extension for digital accessibility and productivity. It transforms web content into high-fidelity speech using the Web Speech API, featuring granular controls for playback dynamics and specialized voice profiles.  
-[SOURCE](https://github.com/abduznik/TTS-Reader-Chrome)
+### PORTFOLIO DUMPER
+**GITHUB TO LLM-READY MARKDOWN.**  
+Converts GitHub profiles and repositories into clean, LLM-friendly Markdown. Features profile README ingestion, repository lists, and PAT support — completely static and secure, no server-side processing required.  
+[SOURCE](https://github.com/abduznik/portfolio-dumper)
 
 ---
 
-### LDRAW2PRINT
-**COMPUTATIONAL GEOMETRY FOR 3D PRINTING.**  
-A technical Python utility for optimizing LDraw digital designs. It implements custom stud-welding algorithms and intelligent color separation to transform complex Lego models into production-ready physical assets.  
-[SOURCE](https://github.com/abduznik/LDraw2Print)
+### WINGOSY LAUNCHER
+**PORTABLE GAME LAUNCHER, NATIVE PYTHON.**  
+A lightweight, portable Windows game launcher with automated RomM save syncing. A native Python port of Argosy, built for minimal footprint and reliable cross-session save synchronization.  
+[SOURCE](https://github.com/abduznik/Wingosy-Launcher)
 
 ---
 
@@ -64,7 +64,7 @@ A standardized training environment for junior electronics engineers. Features m
 PYTHON / DART / C++ / C / TYPESCRIPT
 
 **DOMAINS**  
-SYSTEMS ARCHITECTURE / EMBEDDED / AUTOMATION / INFRASTRUCTURE
+SYSTEMS ARCHITECTURE / ATE & RF TEST ENGINEERING / EMBEDDED / AUTOMATION / DEVELOPER TOOLING
 
 ---
 
