@@ -51,13 +51,6 @@ Automated metadata and artwork orchestration for Obsidian vaults. It integrates 
 
 ---
 
-### ATE SYSTEMS BOOTCAMP
-**HARDWARE ONBOARDING INFRASTRUCTURE.**  
-A standardized training environment for junior electronics engineers. Features modular labs for Git version control, Wokwi firmware simulation, and KiCad hardware design to bridge the gap between academic theory and military-grade ATE production.  
-[SOURCE](https://github.com/abduznik/ATE-Systems-Bootcamp)
-
----
-
 ## STACK
 
 **LANGUAGES**  
